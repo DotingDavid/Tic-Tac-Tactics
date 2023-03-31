@@ -38,8 +38,5 @@ extern "C" int FMXmain()
 
 
 //Shouldn't be able to use powerups directly on shielded tile
-//OShield doesn't reset when used on empty tile, sometimes (check, I Think)
-        //Happens when XShield is already placed
-        //Does not happen to XShield when OShield is already placed
 //Add sound effects
 //Loser Should go first
